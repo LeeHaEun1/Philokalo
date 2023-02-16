@@ -1,14 +1,17 @@
-# Philokalo
- 
-상호작용 통한 아동 사회성 발달 및 활동일지 기반 부모의 자녀 지도 조력 플랫폼 개발 (XR-Network-AI 융합 프로젝트)
+[View in Notion](https://www.notion.so/Platform-Philokalo-0e7e957654e54f2ca185d5f7e11f7af3)
 
 # [Platform] Philokalo (아동 사회성·창의성 발달 플랫폼)
 
 개발 환경: AmazonS3, C#, Docker, Jenkins, MediaPipe, MySQL, Photon, SpringCloudConfig, Unity, pandas
+
 기간 (Period): 2022년 10월 5일 → 2022년 12월 1일
+
 작업 배경: 메타버스 아카데미 1기 동료학습 과정
+
 작업 인원: 6인 (XR 2인, Network 2인, AI 2인) (본인 소속: XR)
+
 장르: 3D, PC
+
 프로젝트 요약: 상호작용 통한 아동 사회성 발달 및 활동일지 기반 부모의 자녀 지도 조력 플랫폼 개발 (XR-Network-AI 협업 프로젝트)
 
 ## 📽️ 영상
